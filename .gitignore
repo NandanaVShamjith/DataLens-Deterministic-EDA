@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+.env
+
+# API keys & secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Jupyter / IDE files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# PDF & generated reports (optional)
+*.pdf
