@@ -49,9 +49,9 @@ AI is used **only to explain results — never to invent them**.
 ## App Preview
 *Screenshots from the DataLens interface*
 
-![Dataset Overview](images/dataset_overview.png)
-![Data Health & Insights](images/data_health_insights.png)
-![AI Explanation Panel](images/ai_explanations.png)
+!Dataset Overview : https://drive.google.com/file/d/1kKcPwkRjlOlGbVKnekrmO9Mr-K4rfYT0/view?usp=sharing)
+!Data Health & Insights :https://drive.google.com/file/d/1bio2zHDhUY8do7psVBuRV9iOwde7fl4j/view?usp=sharing
+!AI Explanation Pane: https://drive.google.com/file/d/1raagPMDmaRvGPbA0byrta48Sg6vJLgvc/view?usp=sharing
 
 ---
 ## App Demo Video
@@ -117,4 +117,5 @@ streamlit run app.py
 ## Author
 Nandana V Shamjith
 Data Analytics / Data Science Portfolio Project
+
 
