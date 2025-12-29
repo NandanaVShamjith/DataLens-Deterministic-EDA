@@ -110,8 +110,11 @@ Download the presentation: https://drive.google.com/file/d/1eR6F1ePEhZYBzcKxpAWw
 ## How to Run
 
 git clone : https://github.com/NandanaVShamjith/DataLens-Deterministic-EDA
+
 cd datalens
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ---
@@ -119,6 +122,7 @@ streamlit run app.py
 ## Author
 Nandana V Shamjith
 Data Analytics / Data Science Portfolio Project
+
 
 
 
