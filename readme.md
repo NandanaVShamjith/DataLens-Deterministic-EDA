@@ -32,7 +32,7 @@ AI is used **only to explain results and never to invent them**.
 ### Optional AI Explanations
 - Natural-language explanations of **pre-computed insights**  
 - Guardrails prevent hallucinated insights  
-- AI never sees raw data — only summaries  
+- AI never sees raw data ,checks only summaries  
 - Can be fully disabled  
 
 ### Feature Engineering
@@ -121,7 +121,8 @@ streamlit run app.py
 
 ## Author
 Nandana V Shamjith
-Data Analytics / Data Science Portfolio Project
+Data Analytics / Data Science Project
+
 
 
 
