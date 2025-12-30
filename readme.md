@@ -60,6 +60,7 @@ AI is used **only to explain results and never to invent them**.
 A short walkthrough demonstrating DataLens features, interaction flow, and insight generation.
 
 Watch the demo:https://drive.google.com/file/d/1xVommyO2dsmNymHW8pjY_uE4NBTPscVl/view?usp=sharing
+
 ---
 
 ## Design Philosophy
@@ -121,6 +122,7 @@ streamlit run app.py
 ## Author
 Nandana V Shamjith
 Data Analytics / Data Science Project
+
 
 
 
