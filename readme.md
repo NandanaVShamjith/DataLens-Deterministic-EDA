@@ -69,7 +69,7 @@ DataLens follows a strict separation of concerns:
 This design makes the system **auditable, trustworthy, and production-friendly**.
 
 ---
-## Presentation (Architecture & Concept)
+## Presentation 
 This presentation explains the system design, analytics workflow, and guardrails used to prevent hallucinations.
 
 Download the presentation: https://drive.google.com/file/d/1eR6F1ePEhZYBzcKxpAWwl8GsjLnIeiQK/view?usp=sharing
@@ -116,6 +116,7 @@ Data Analytics / Data Science Project
 LinkedIn: www.linkedin.com/in/690374282
 
 Email: nandanavshamjith39@gmail.com
+
 
 
 
