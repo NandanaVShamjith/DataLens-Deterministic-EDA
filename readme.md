@@ -113,6 +113,11 @@ streamlit run app.py
 Nandana V Shamjith
 Data Analytics / Data Science Project
 
+LinkedIn: www.linkedin.com/in/690374282
+
+Email: nandanavshamjith39@gmail.com
+
+
 
 
 
