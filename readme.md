@@ -49,7 +49,7 @@ AI is used **only to explain results and never to invent them**.
 ## App Preview
 *Screenshots from the DataLens interface*
 
--Dataset Overview : https://drive.google.com/file/d/1kKcPwkRjlOlGbVKnekrmO9Mr-K4rfYT0/view?usp=sharing
+-Dataset Overview : https://drive.google.com/file/d/1kKcPwkRjlOlGbVKnekrmO9Mr-K4rfYT0/view?usp=drive_link
 
 -Data Health & Insights : https://drive.google.com/file/d/1ul9j4XRqiXhwZnNk0DNWq82Xiwtu-scg/view?usp=drive_link
 
@@ -122,6 +122,7 @@ streamlit run app.py
 ## Author
 Nandana V Shamjith
 Data Analytics / Data Science Project
+
 
 
 
